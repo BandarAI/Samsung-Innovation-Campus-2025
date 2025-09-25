@@ -3,6 +3,8 @@ The Samsung Innovation Campus AI Program is an initiative designed to provide a 
 ![img](background.png)
 
 # 🎓 Capstone Project  
+
+
 ## 🍽️ Food Recognition & Macro Calculator  
 An object detection model built with **YOLO** to recognize food items. After detection, users can enter the portion size in grams to calculate **calories** and **macronutrients** (protein, carbohydrates, fats).  
 
