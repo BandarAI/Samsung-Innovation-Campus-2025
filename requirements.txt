@@ -1,10 +1,9 @@
 # pip install -r requirements.txt
 
-streamlit==1.25.0
-ultralytics==8.0.160
+streamlit
+ultralytics
 torch
 torchvision
-opencv-python-headless==4.8.1.78
 streamlit-option-menu
 Pillow
 numpy
