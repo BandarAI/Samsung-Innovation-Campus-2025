@@ -31,30 +31,19 @@ def text_detection(model, file):
 
 
 def app():
-    st.title("Image Detection")
+    st.title("Food Recognition & Macro Calculator")  # ONLY this one
 
     model = load_model()
 
-    uploaded = st.file_uploader("Upload image", type=["jpg", "png", "jpeg"])
-    if uploaded:
-        results = model(uploaded)
-        st.image(results[0].plot(), use_container_width=True)
-
-    st.title("Food Recognition & Macro Calculator")
     file = st.file_uploader("Upload an image", type=("jpg", "jpeg", "png"))
-    
-    image_placeholder = None
 
-    if 'page1_res_plotted' in st.session_state:
-        res_plotted = st.session_state.get('page1_res_plotted')
-    else:
-        res_plotted = None
+    image_placeholder = None
 
     if file is not None:
         col1, col2, col3 = st.columns([1, 2, 1])
         with col2:
             image_placeholder = st.empty()
-            image_placeholder.image(image=file, caption='Selected Image', width=700)
+            image_placeholder.image(file, caption='Selected Image', width=700)
 
     button = st.sidebar.button("🔍 Detect and Calculate")
     if button:
@@ -91,11 +80,7 @@ def app():
             st.number_input(f"Weight of {food.capitalize()} (g):", min_value=0, step=1, key=key)
 
         if st.button("Calculate Macros", key="page1_calc"):
-            total_protein = 0.0
-            total_carbs = 0.0
-            total_fat = 0.0
-            total_calories = 0.0
-
+            total_protein = total_carbs = total_fat = total_calories = 0.0
             for food in unique_foods:
                 weight_g = st.session_state.get(f"img_w_{food}", 0)
                 if weight_g <= 0:

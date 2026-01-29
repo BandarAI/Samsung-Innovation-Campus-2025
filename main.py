@@ -32,7 +32,7 @@ class MultiApp:
             img_html = f"<div style='text-align:center'><img src='data:image/jpeg;base64,{encoded}' width='220' /></div>"
             st.sidebar.markdown(img_html, unsafe_allow_html=True)
         except Exception:
-            st.sidebar.image('logo_.jpg', width=220)
+            st.sidebar.image('images/yolo_logo.png', width=220)
 
         st.sidebar.markdown("<div style='height:18px'></div>", unsafe_allow_html=True)
 
