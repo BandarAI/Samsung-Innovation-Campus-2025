@@ -1,0 +1,10 @@
+# pip install -r requirements.txt
+
+streamlit
+ultralytics
+torch
+torchvision
+opencv-python-headless
+streamlit-option-menu
+Pillow
+numpy

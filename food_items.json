@@ -1,0 +1,284 @@
+{
+  "orange": {
+    "protein": 0.9,
+    "carbs": 11.75,
+    "fat": 0.12,
+    "calories": 47
+  },
+  "apple": {
+    "protein": 0.26,
+    "carbs": 13.81,
+    "fat": 0.17,
+    "calories": 52
+  },
+  "strawberry": {
+    "protein": 0.67,
+    "carbs": 7.68,
+    "fat": 0.3,
+    "calories": 32
+  },
+  "grapes": {
+    "protein": 0.72,
+    "carbs": 16.78,
+    "fat": 0.16,
+    "calories": 67
+  },
+  "banana": {
+    "protein": 1.09,
+    "carbs": 22.84,
+    "fat": 0.33,
+    "calories": 89
+  },
+  "carrot": {
+    "protein": 0.93,
+    "carbs": 9.58,
+    "fat": 0.24,
+    "calories": 41
+  },
+  "pancake": {
+    "protein": 5.47,
+    "carbs": 43.64,
+    "fat": 5.66,
+    "calories": 227
+  },
+  "fries": {
+    "protein": 3.4,
+    "carbs": 36.03,
+    "fat": 15.5,
+    "calories": 312
+  },
+  "zucchini": {
+    "protein": 1.44,
+    "carbs": 3.35,
+    "fat": 0.36,
+    "calories": 17
+  },
+  "broccoli": {
+    "protein": 2.82,
+    "carbs": 6.64,
+    "fat": 0.37,
+    "calories": 34
+  },
+  "pizza": {
+    "protein": 12.0,
+    "carbs": 36.0,
+    "fat": 11.0,
+    "calories": 285
+  },
+  "pineapple": {
+    "protein": 0.54,
+    "carbs": 13.12,
+    "fat": 0.12,
+    "calories": 50
+  },
+  "bell pepper": {
+    "protein": 0.86,
+    "carbs": 5.92,
+    "fat": 0.3,
+    "calories": 27
+  },
+  "watermelon": {
+    "protein": 0.61,
+    "carbs": 7.55,
+    "fat": 0.15,
+    "calories": 30
+  },
+  "guacamole": {
+    "protein": 2.0,
+    "carbs": 8.5,
+    "fat": 21.0,
+    "calories": 160
+  },
+  "lemon": {
+    "protein": 1.53,
+    "carbs": 6.9,
+    "fat": 0.3,
+    "calories": 29
+  },
+  "lentil": {
+    "protein": 25.0,
+    "carbs": 20.0,
+    "fat": 0.4,
+    "calories": 116
+  },
+  "peas": {
+    "protein": 5.42,
+    "carbs": 7.72,
+    "fat": 0.22,
+    "calories": 42
+  },
+  "pear": {
+    "protein": 0.39,
+    "carbs": 15.23,
+    "fat": 0.1,
+    "calories": 57
+  },
+  "waffle": {
+    "protein": 4.3,
+    "carbs": 39.0,
+    "fat": 8.0,
+    "calories": 220
+  },
+  "spinach": {
+    "protein": 2.71,
+    "carbs": 3.6,
+    "fat": 0.39,
+    "calories": 23
+  },
+  "tomato": {
+    "protein": 0.88,
+    "carbs": 3.89,
+    "fat": 0.2,
+    "calories": 18
+  },
+  "garlic": {
+    "protein": 6.39,
+    "carbs": 33.06,
+    "fat": 0.5,
+    "calories": 149
+  },
+  "avocado": {
+    "protein": 2.92,
+    "carbs": 8.53,
+    "fat": 14.66,
+    "calories": 160
+  },
+  "cake": {
+    "protein": 3.0,
+    "carbs": 47.0,
+    "fat": 13.0,
+    "calories": 330
+  },
+  "coconut": {
+    "protein": 3.33,
+    "carbs": 9.42,
+    "fat": 35.75,
+    "calories": 354
+  },
+  "cheeseburger": {
+    "protein": 15.5,
+    "carbs": 28.0,
+    "fat": 15.0,
+    "calories": 310
+  },
+  "chicken": {
+    "protein": 31.0,
+    "carbs": 0.0,
+    "fat": 3.6,
+    "calories": 165
+  },
+  "onion": {
+    "protein": 1.1,
+    "carbs": 9.34,
+    "fat": 0.1,
+    "calories": 40
+  },
+  "muffin": {
+    "protein": 4.5,
+    "carbs": 45.0,
+    "fat": 10.0,
+    "calories": 290
+  },
+  "bread": {
+    "protein": 8.5,
+    "carbs": 49.0,
+    "fat": 3.3,
+    "calories": 265
+  },
+  "corn": {
+    "protein": 3.27,
+    "carbs": 19.02,
+    "fat": 1.35,
+    "calories": 86
+  },
+  "lettuce": {
+    "protein": 1.23,
+    "carbs": 2.87,
+    "fat": 0.22,
+    "calories": 15
+  },
+  "rice": {
+    "protein": 2.69,
+    "carbs": 28.73,
+    "fat": 0.3,
+    "calories": 130
+  },
+  "fish": {
+    "protein": 20.0,
+    "carbs": 0.0,
+    "fat": 13.0,
+    "calories": 206
+  },
+  "beef": {
+    "protein": 26.3,
+    "carbs": 0.0,
+    "fat": 15.0,
+    "calories": 250
+  },
+  "potato": {
+    "protein": 1.68,
+    "carbs": 16.56,
+    "fat": 0.09,
+    "calories": 77
+  },
+  "cucumber": {
+    "protein": 0.65,
+    "carbs": 3.63,
+    "fat": 0.11,
+    "calories": 16
+  },
+  "egg": {
+    "protein": 13.0,
+    "carbs": 1.1,
+    "fat": 11.0,
+    "calories": 155
+  },
+  "cheese": {
+    "protein": 25.0,
+    "carbs": 1.3,
+    "fat": 33.7,
+    "calories": 402
+  },
+  "milk": {
+    "protein": 3.2,
+    "carbs": 4.8,
+    "fat": 3.6,
+    "calories": 61
+  },
+  "yogurt": {
+    "protein": 3.5,
+    "carbs": 4.7,
+    "fat": 0.4,
+    "calories": 40
+  },
+  "butter": {
+    "protein": 0.7,
+    "carbs": 0.1,
+    "fat": 81.7,
+    "calories": 717
+  },
+  "olive oil": {
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 100.0,
+    "calories": 884
+  },
+  "pasta": {
+    "protein": 12.8,
+    "carbs": 70.5,
+    "fat": 1.5,
+    "calories": 371
+  },
+  "sauce": {
+    "protein": 1.5,
+    "carbs": 3.5,
+    "fat": 3.5,
+    "calories": 50
+  },
+  "salad": {
+    "protein": 1.5,
+    "carbs": 4.0,
+    "fat": 3.0,
+    "calories": 50
+  }
+}

@@ -2,7 +2,7 @@
 
 # Samsung Innovation Campus AI Program 
 The Samsung Innovation Campus AI Program is an initiative designed to provide a deep dive into artificial intelligence, machine learning, and data processing. This 215-hour program combines asynchronous learning with blended sessions, featuring lectures, hands on exercises, and a capstone project. Participants will gain practical skills and theoretical knowledge, preparing them for a successful career in AI.
-![img](background.png)
+![img](/images/background.png)
 
 # 🎓 Capstone Project  
 
@@ -27,13 +27,13 @@ Before training, an **EDA** was conducted to understand dataset distribution.
 ### 🔹 Plots  
 
 #### 📏 Width, Height, and Ratio Distribution  
-![Width, Height, and Ratio Distribution](img_res.png)  
+![Width, Height, and Ratio Distribution](/images/img_res.png)  
 
 #### 🍱 Top 50 Classes  
-![Top 50 Classes](topclasses.png)  
+![Top 50 Classes](/images/topclasses.png)  
 
 #### 🥢 Least 50 Classes  
-![Least 50 Classes](leastclasses.png)  
+![Least 50 Classes](/images/leastclasses.png)  
 
 ## 🏋️ Model Training  
 - Input size: **640x640**  
@@ -41,7 +41,7 @@ Before training, an **EDA** was conducted to understand dataset distribution.
 - Training on **20 epochs**.  
 
 ### 🔹 Training & Evaluation  
-![Training and Evaluation Results](results.png)  
+![Training and Evaluation Results](/images/results.png)  
 
 ## 🚀 Demo Application  
 A demo app was built to showcase the system:  
@@ -52,4 +52,4 @@ A demo app was built to showcase the system:
 4. The app returns calories and macros.  
 
 ### 🔹 Demo Screenshot  
-![Demo App Screenshot](demo.png)  
+![Demo App Screenshot](/images/demo.png)  
