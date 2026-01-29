@@ -44,12 +44,14 @@ Before training, an **EDA** was conducted to understand dataset distribution.
 ![Training and Evaluation Results](/images/results.png)  
 
 ## 🚀 Demo Application  
-A demo app was built to showcase the system:  
 
-1. Upload a food image.  
-2. The system detects the food items.  
-3. User inputs the portion size (grams).  
-4. The app returns calories and macros.  
+👉 A live demo is available [here](https://samsung-innovation-campus-2025.streamlit.app/) 
 
-### 🔹 Demo Screenshot  
-![Demo App Screenshot](/images/demo.png)  
+### 🧪 How it works  
+1. 📤 Upload a food image  
+2. 🧠 The YOLO model detects food items  
+3. ⚖️ Enter the portion size (grams)  
+4. 🔢 Get calories and macronutrients instantly  
+
+### 🎥 Demo Preview  
+![Demo GIF](/images/demo.gif)  
